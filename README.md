@@ -3,7 +3,7 @@
 ![Bar chart with any number of series](./bar.png)
 
 ## Demo 
-[https://tombargej.github.io/new-chartjs-bar/]
+https://tombargej.github.io/new-chartjs-bar/
 
 
 Sample data by CT Department of Education.
